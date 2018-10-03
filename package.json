@@ -5,13 +5,15 @@
   "dependencies": {
     "@material-ui/core": "latest",
     "@material-ui/icons": "latest",
+    "@reach/router": "^1.2.1",
     "babel-plugin-transform-class-properties": "latest",
     "babel-preset-env": "latest",
     "babel-preset-react": "latest",
     "parcel-bundler": "latest",
+    "petfinder-client": "0.0.3",
     "prop-types": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
   },
   "scripts": {
     "start": "parcel src/index.html",
